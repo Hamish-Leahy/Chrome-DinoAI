@@ -17,3 +17,8 @@ Features:
 5. User-Friendly Interface: The AI comes with a user-friendly interface that allows players to interact and observe the AI's gameplay in real-time. Users can toggle between different modes, such as training, testing, or simply spectating the AI's performance. The interface also provides insightful visualizations and statistics to showcase the AI's learning progress and achievements.
 
 Chrome Dino AI Master combines the thrill of gaming with the cutting-edge advancements in artificial intelligence. It serves as a remarkable example of how AI can enhance and optimize gameplay, pushing the boundaries of what's possible in the world of gaming.
+
+<img width="1470" alt="Screen Shot 2023-07-02 at 5 42 06 pm" src="https://github.com/Hamish-Leahy/Chrome-DinoAI/assets/98940688/2890fea6-1699-4530-bb5c-18e623c27a72">
+
+
+
